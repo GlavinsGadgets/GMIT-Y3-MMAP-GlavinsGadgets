@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<APPLE>
+	<PHONE>
+		<MODEL>iPhone 7 Screen</MODEL>
+		<PRICE>€100</PRICE>
+	</PHONE>
+	<PHONE>
+		<MODEL>iPhone 7 Plus Screen</MODEL>
+		<PRICE>€150</PRICE>
+	</PHONE>
+	<PHONE>
+		<MODEL>iPhone SE Screen</MODEL>
+		<PRICE>€60</PRICE>
+	</PHONE>
+	<PHONE>
+		<MODEL>iPhone 6S Screen</MODEL>
+		<PRICE>€100</PRICE>
+	</PHONE>
+	<PHONE>
+		<MODEL>iPhone 6 Screen</MODEL>
+		<PRICE>€60</PRICE>
+	</PHONE>
+	<PHONE>
+		<MODEL>iPhone 6S Plus Screen</MODEL>
+		<PRICE>€140</PRICE>
+	</PHONE>
+	<PHONE>
+		<MODEL>iPhone 5/5s Screens</MODEL>
+		<PRICE>€50</PRICE>
+	</PHONE>
+	<PHONE>
+		<MODEL>iPhone 5C Screens</MODEL>
+		<PRICE>€50</PRICE>
+	</PHONE>
+	<PHONE>
+		<MODEL>iPhone 4s Screens</MODEL>
+		<PRICE>€50</PRICE>
+	</PHONE>
+</APPLE>

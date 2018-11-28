@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ANDROID xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<PHONE>
+		<MODEL>Samsung Galaxy S7 Edge Screen Repair</MODEL>
+		<PRICE>€300</PRICE>
+	</PHONE>
+	<PHONE>
+		<MODEL>Samsung Galaxy S7 Screen Repair</MODEL>
+		<PRICE>€200</PRICE>
+	</PHONE>
+	<PHONE>
+		<MODEL>Samsung Galaxy S6 Edge Screen Repair</MODEL>
+		<PRICE>€240</PRICE>
+	</PHONE>
+	<PHONE>
+		<MODEL>Samsung Galaxy S6 Screen Repair</MODEL>
+		<PRICE>€200</PRICE>
+	</PHONE>
+	<PHONE>
+		<MODEL>Samsung Galaxy S5 Screen Repair</MODEL>
+		<PRICE>€160</PRICE>
+	</PHONE>
+	<PHONE>
+		<MODEL>Samsung Galaxy S4 Screen Repair</MODEL>
+		<PRICE>€120</PRICE>
+	</PHONE>
+	<PHONE>
+		<MODEL>&amp;nbsp;</MODEL>
+		<PRICE>&amp;nbsp;</PRICE>
+	</PHONE>
+	<PHONE>
+		<MODEL>HTC One M10 Screen Repair</MODEL>
+		<PRICE>€160</PRICE>
+	</PHONE>
+	<PHONE>
+		<MODEL>HTC One M9 Screen Repair</MODEL>
+		<PRICE>€150</PRICE>
+	</PHONE>
+	<PHONE>
+		<MODEL>HTC One M8/M8s Screen Repair</MODEL>
+		<PRICE>€130</PRICE>
+	</PHONE>
+	<PHONE>
+		<MODEL>HTC One M7 Screen Repair</MODEL>
+		<PRICE>€100</PRICE>
+	</PHONE>
+	<PHONE>
+		<MODEL>&amp;nbsp;</MODEL>
+		<PRICE>&amp;nbsp;</PRICE>
+	</PHONE>
+	<PHONE>
+		<MODEL>Sony Xperia Z Screen Repair</MODEL>
+		<PRICE>€110</PRICE>
+	</PHONE>
+	<PHONE>
+		<MODEL>Sony Xperia Z1 Screen Repair</MODEL>
+		<PRICE>€90</PRICE>
+	</PHONE>
+	<PHONE>
+		<MODEL>Sony Xperia Z2 Screen Repair</MODEL>
+		<PRICE>€110</PRICE>
+	</PHONE>
+	<PHONE>
+		<MODEL>Sony Xperia Z3 Screen Repair</MODEL>
+		<PRICE>€110</PRICE>
+	</PHONE>
+	<PHONE>
+		<MODEL>Sony Xperia Z5 Screen Repair</MODEL>
+		<PRICE>€190</PRICE>
+	</PHONE>
+</ANDROID>

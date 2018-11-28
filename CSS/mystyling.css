@@ -1,0 +1,111 @@
+@charset "utf-8";
+/* Author: Eanna Glavin */
+
+body{
+  font-family: 'Lucida Grande', 'Lucida Sans Unicode', Arial, sans-serif;
+  font-weight: 400;
+}
+
+.XMLLeft {
+	width: 70%;
+}
+.XMLRight {
+	width: 30%;
+}
+
+.prices-table{
+	margin: 0 auto;
+	width: 100%;
+	text-align: center;
+}
+
+.banner-container {
+	position: relative;
+	height: 0;
+	overflow: hidden;
+}
+.banner-container {
+  padding-bottom: 43%;
+
+}
+.banner-container iframe {
+	overflow:auto;
+	height: 100%;
+	width: 100%;
+	position: absolute;
+	top:0;
+	left: 0;
+}
+
+.copyrightinfo{
+	margin: 0 auto;
+	padding: 15px 0 10px 0;
+	text-align: center;
+	line-height: 1.5em;
+	font-size: .9em;
+	color: #d1d1d1;
+}
+.copyrightinfo a:link{
+	text-decoration: none;
+	color: #d1d1d1;
+	font-size: .9em;
+}
+.copyrightinfo a:hover{
+	color: #d1d1d1;
+}
+
+input::-webkit-input-placeholder {
+	color: #a3a3a3 !important;
+}
+textarea::-webkit-input-placeholder {
+	color: #a3a3a3 !important;
+}
+div#main.email{
+	width: 100%;
+	margin:0 auto; 
+}
+div#form_sample{
+	margin: 0 auto;
+	width: 100%;
+	text-align:center;
+}
+#form_sample label{
+	height: 16px;
+	float: left;
+	font-size: 16px;
+	display: block;
+}
+#form_sample .resize{
+	width: 100%;
+	height: 2.5em;
+	outline: none;
+}
+#form_sample textarea{
+	width: 100%;
+	height: 5em;
+	outline: none;
+	resize:none;
+}
+#form_sample .textbox{
+	background-color: white;
+	color: black;
+	text-shadow: 0 0 0;
+	width: 100%;
+	padding: 5px 10px 0 10px;
+	box-sizing:border-box
+}
+
+
+.YT-video {
+	position: relative;
+	padding-bottom: 55%;
+	padding-top: 25px;
+	height: 0;
+}
+.YT-video iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}

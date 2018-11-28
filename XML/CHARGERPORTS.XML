@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CHARGERPORTS xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<PHONE>
+		<MODEL>iPhone 7/7 Plus Charging Ports</MODEL>
+		<PRICE>€90</PRICE>
+	</PHONE>
+	<PHONE>
+		<MODEL>iPhone 6/6 Plus/6S/6 Plus Charging Port</MODEL>
+		<PRICE>€50</PRICE>
+	</PHONE>
+	<PHONE>
+		<MODEL>iPhone SE Charging Port</MODEL>
+		<PRICE>€40</PRICE>
+	</PHONE>
+	<PHONE>
+		<MODEL>iPhone 5/5S/5C Charging Port</MODEL>
+		<PRICE>€40</PRICE>
+	</PHONE>
+	<PHONE>
+		<MODEL>iPhone 4S Charging Port</MODEL>
+		<PRICE>€30</PRICE>
+	</PHONE>
+	<PHONE>
+		<MODEL>&amp;nbsp;</MODEL>
+		<PRICE>&amp;nbsp;</PRICE>
+	</PHONE>
+	<PHONE>
+		<MODEL>Samsung Galaxy S4 Charging Port</MODEL>
+		<PRICE>€40</PRICE>
+	</PHONE>
+	<PHONE>
+		<MODEL>Samsung Galaxy S5 Charging Port</MODEL>
+		<PRICE>€40</PRICE>
+	</PHONE>
+	<PHONE>
+		<MODEL>Samsung Galaxy S6 Charging Port</MODEL>
+		<PRICE>€50</PRICE>
+	</PHONE>
+	<PHONE>
+		<MODEL>Samsung Galaxy S6 Edge Charging Port</MODEL>
+		<PRICE>€50</PRICE>
+	</PHONE>
+	<PHONE>
+		<MODEL>Samsung Galaxy S7 Charging Port</MODEL>
+		<PRICE>€60</PRICE>
+	</PHONE>
+	<PHONE>
+		<MODEL>Samsung Galaxy S7 Edge Charging Port</MODEL>
+		<PRICE>€60</PRICE>
+	</PHONE>
+	<PHONE>
+		<MODEL>&amp;nbsp;</MODEL>
+		<PRICE>&amp;nbsp;</PRICE>
+	</PHONE>
+	<PHONE>
+		<MODEL>HTC One M10 Charging Port</MODEL>
+		<PRICE>€70</PRICE>
+	</PHONE>
+	<PHONE>
+		<MODEL>HTC One M9 Charging Port</MODEL>
+		<PRICE>€50</PRICE>
+	</PHONE>
+	<PHONE>
+		<MODEL>HTC One M8/M8s Charging Port</MODEL>
+		<PRICE>€50</PRICE>
+	</PHONE>
+	<PHONE>
+		<MODEL>HTC One M7 Charging Port</MODEL>
+		<PRICE>€40</PRICE>
+	</PHONE>
+	<PHONE>
+		<MODEL>&amp;nbsp;</MODEL>
+		<PRICE>&amp;nbsp;</PRICE>
+	</PHONE>
+	<PHONE>
+		<MODEL>Sony Xperia Z5 Charging Port</MODEL>
+		<PRICE>€50</PRICE>
+	</PHONE>
+</CHARGERPORTS>
